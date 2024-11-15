@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "353809677923",
+    "firebase_url": "https://seg2505-tutorial3-8d0a8-default-rtdb.firebaseio.com",
+    "project_id": "seg2505-tutorial3-8d0a8",
+    "storage_bucket": "seg2505-tutorial3-8d0a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353809677923:android:5bae0d08826931dc518256",
+        "android_client_info": {
+          "package_name": "com.qerope.tutorial3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG6oGFxGpstZiAujq7fsgvQaDtiRnjiQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353809677923:android:46e428b4909cfe1d518256",
+        "android_client_info": {
+          "package_name": "com.seg2505.project_group3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG6oGFxGpstZiAujq7fsgvQaDtiRnjiQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
