@@ -67,7 +67,3 @@ Feel free to navigate through the various subdirectories to review the code for 
 This repository contains the work completed for the third tutorial assignment of SEG2505. The tutorials helped enhance understanding of Firebase integration with Android, focusing on Realtime Database, chat systems, and remote interaction techniques.
 
 Please reach out if you have any questions or need further clarification on any of the tutorials.
-
----
-
-**Note**: The repository is configured to be accessible to teaching assistants for review. Make sure to follow the submission guidelines outlined on BrightSpace.
